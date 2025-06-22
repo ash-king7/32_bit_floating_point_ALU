@@ -279,12 +279,14 @@ The floating-point unit was verified using the Xilinx Vivado simulation environm
  
 
 
+![image](https://github.com/user-attachments/assets/b42f4d24-d973-4490-9a4b-601baedad0f4)
 
        Addition Test Case
 
  
 
  
+![image](https://github.com/user-attachments/assets/9a675029-e04a-479e-a842-e88dbc42908a)
 
   Multiplication Test Case
 
